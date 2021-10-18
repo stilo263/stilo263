@@ -1,0 +1,7 @@
+echo "# stilo263" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/stilo263/stilo263.git
+git push -u origin main
